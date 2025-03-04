@@ -1,4 +1,4 @@
 # Hello, World!;
 
 
-#### I'm junior programmer Doyun;
+#### I'm student Doyun;
